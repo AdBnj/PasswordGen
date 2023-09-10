@@ -30,7 +30,7 @@ Hello! This project, developed when I was just 16, is a Python application that 
 ## How to Use
 1. Clone the repository to your local machine.
 2. Navigate to the project directory in the terminal.
-3. Run the script using the command `Password_Generator_Checker.py` (replace "script_name.py" with the actual name of your script).
+3. Run the script using the command `Password_Generator_Checker.py`.
 4. The application window will open, and you can use the functionalities to generate or check passwords.
 
 ## Future Improvements
